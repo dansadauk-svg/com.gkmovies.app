@@ -1,6 +1,8 @@
 Package name: com.gkmovies.app
 Website: https://gkmovies.com.ng/
-Version: 1.2.0 (code 4)
+Version: 1.2.1 (code 5)
+Minimum SDK: 24
+Compile/target SDK: 36
 Download notifications: enabled
 Firebase push topic: gk_movies_all
 Normal app orientation: portrait

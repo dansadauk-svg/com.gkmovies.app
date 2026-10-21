@@ -7,8 +7,9 @@ Native Android WebView application for GK Movies.
 - App name: GK Movies
 - Package: `com.gkmovies.app`
 - Website: `https://gkmovies.com.ng/`
-- Version: `1.2.0` (`versionCode 4`)
+- Version: `1.2.1` (`versionCode 5`)
 - Target SDK: Android 36
+- Minimum SDK: Android 7.0 / API 24
 - Download notifications: enabled
 
 ## Included features

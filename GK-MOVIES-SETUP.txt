@@ -1,4 +1,4 @@
-GK MOVIES ANDROID 1.2.0
+GK MOVIES ANDROID 1.2.1
 
 Name: GK Movies
 Package: com.gkmovies.app

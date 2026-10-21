@@ -20,8 +20,8 @@
     "path": "gk-movies-release-key.jks",
     "alias": "gk_movies"
   },
-  "appVersionName": "1.2.0",
-  "appVersionCode": 4,
+  "appVersionName": "1.2.1",
+  "appVersionCode": 5,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://gkmovies.com.ng/mk-pwa-manifest.json",

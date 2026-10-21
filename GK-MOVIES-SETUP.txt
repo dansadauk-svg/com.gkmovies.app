@@ -1,0 +1,20 @@
+GK MOVIES ANDROID 1.2.0
+
+Name: GK Movies
+Package: com.gkmovies.app
+Website: https://gkmovies.com.ng/
+Download notifications: enabled
+
+GITHUB BUILD
+1. Upload this project folder's contents to the root of the GK Movies GitHub repository.
+2. Use the included GK Movies signing key with alias gk_movies.
+3. Add GK_KEYSTORE_BASE64, GK_KEYSTORE_PASSWORD and GK_KEY_PASSWORD as GitHub repository secrets.
+4. Firebase configuration for com.gkmovies.app is already included. GK_GOOGLE_SERVICES_JSON_BASE64 remains an optional fallback.
+5. Open Actions > Build GK Movies APK and AAB > Run workflow.
+6. Download the APK for testing or AAB for Google Play Console.
+
+APP LINKS
+Upload assetlinks.json to:
+https://gkmovies.com.ng/.well-known/assetlinks.json
+
+The certificate fingerprint in assetlinks.json already matches the included GK Movies release signing key.

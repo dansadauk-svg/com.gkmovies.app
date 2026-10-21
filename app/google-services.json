@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478599522030",
+    "project_id": "gkmovies-b5339",
+    "storage_bucket": "gkmovies-b5339.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478599522030:android:8e9772392a947f086fb5ff",
+        "android_client_info": {
+          "package_name": "com.gkmovies.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcE774Qr-Qt3nK35jl3cFQNPAkWHYLPU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

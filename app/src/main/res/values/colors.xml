@@ -1,0 +1,10 @@
+<resources>
+    <color name="statusBarColor">#F4FFF7</color>
+    <color name="statusBarColorDark">#052E1B</color>
+    <color name="navigationBarColor">#F4FFF7</color>
+    <color name="navigationBarColorDark">#052E1B</color>
+    <color name="backgroundColor">#F4FFF7</color>
+    <color name="gkPrimary">#087A3E</color>
+    <color name="gkPrimaryDark">#04542B</color>
+    <color name="gkGold">#F5C542</color>
+</resources>

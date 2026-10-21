@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GK Movies</string>
+    <string name="provider_authority">com.gkmovies.app.fileprovider</string>
+    <string name="asset_statements">[{\"relation\":[\"delegate_permission/common.handle_all_urls\"],\"target\":{\"namespace\":\"web\",\"site\":\"https://gkmovies.com.ng\"}}]</string>
+    <string name="push_channel_name">GK Movies updates</string>
+    <string name="push_channel_description">New movies and important GK Movies announcements</string>
+</resources>
